@@ -1,0 +1,454 @@
+Id,title,artist,year,bpm,nrgy,dnce,dB,live,val,dur,acous,spch,pop,top genre
+1,My Happiness,Connie Francis,1996,107,31,45,-8,13,28,150,75,3,44,adult standards
+2,Unchained Melody,The Teddy Bears,2011,114,44,53,-8,13,47,139,49,3,37,
+3,How Deep Is Your Love,Bee Gees,1979,105,36,63,-9,13,67,245,11,3,77,adult standards
+4,Woman in Love,Barbra Streisand,1980,170,28,47,-16,13,33,232,25,3,67,adult standards
+5,Goodbye Yellow Brick Road - Remastered 2014,Elton John,1973,121,47,56,-8,15,40,193,45,3,63,glam rock
+6,Grenade,Bruno Mars,2010,110,56,71,-7,12,23,223,15,6,74,pop
+7,No Time,The Guess Who,1971,128,48,48,-14,5,12,219,8,6,44,album rock
+8,End Of The Road,Boyz II Men,1991,150,43,64,-9,6,53,351,7,2,71,boy band
+9,Someone Elses Roses,Joan Regan,2019,100,14,29,-10,15,32,143,89,3,34,
+10,You Belong to My Heart,Timi Yuro,2013,108,39,46,-10,16,50,126,82,3,35,adult standards
+11,All Rise,Blue,2001,98,74,72,-3,17,93,224,12,3,63,boy band
+12,Nikita,Elton John,1985,87,66,63,-9,7,75,343,12,3,68,glam rock
+13,Laugh Laugh,The Beau Brummels,2006,129,68,49,-9,10,75,177,30,5,30,brill building pop
+14,What Do You Want,Adam Faith,1989,147,37,55,-9,24,85,98,84,4,35,brill building pop
+15,Hey! Baby - Remastered,Bruce Channel,2017,64,62,52,-6,27,64,144,36,4,60,rock-and-roll
+16,Cry Like a Baby,The Box Tops,1968,133,47,67,-12,50,77,152,34,3,40,brill building pop
+17,One of These Days,Emmylou Harris,1975,125,39,66,-9,12,68,184,45,3,46,country rock
+18,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",CÃ©line Dion,1992,77,40,46,-10,13,12,249,64,3,65,canadian pop
+19,Heart Full of Soul,The Yardbirds,2002,141,67,49,-10,5,70,148,23,4,62,album rock
+20,So Sick,Ne-Yo,2006,93,57,45,-8,19,58,207,25,31,77,dance pop
+21,Love Of My Life - Remastered 2011,Queen,1975,154,18,33,-12,12,26,217,93,3,74,glam rock
+22,Glory of Love,Peter Cetera,1986,145,59,52,-8,31,31,258,8,3,71,adult standards
+23,Fading Like a Flower (Every Time You Leave),Roxette,1991,105,67,61,-6,22,32,231,20,3,64,europop
+24,Stay Another Day,East 17,1994,128,49,52,-8,19,44,267,58,3,63,boy band
+25,Black Christ of the Andes (St. Martin de Porres),Mary Lou Williams,1964,89,7,20,-20,13,6,400,98,3,42,bebop
+26,Dancing with Tears in My Eyes,Ultravox,1984,144,91,59,-8,60,93,244,15,4,59,art rock
+27,Drinks On The House,Green Martini Keys,2016,97,16,57,-16,11,15,181,100,5,28,
+28,Rock Your Baby,George McCrae,2001,104,77,59,-11,7,95,201,31,4,55,disco
+29,I Walk on Guilded Splinters,Dr. John,1968,90,29,65,-19,9,71,466,56,8,48,blues
+30,Pour Some Sugar On Me - Remastered 2017,Def Leppard,1987,85,95,27,-5,28,57,267,0,10,74,album rock
+31,Party In The U.S.A.,Miley Cyrus,2009,96,70,65,-5,9,47,202,0,4,78,dance pop
+32,Always Be My Baby,Mariah Carey,1995,79,53,65,-8,25,49,258,46,4,73,dance pop
+33,I Will Survive - Extended Version,Gloria Gaynor,2019,116,85,76,-5,27,59,197,6,5,61,disco
+34,Hate That I Love You,Rihanna,2008,94,73,64,-5,10,73,219,32,9,71,barbadian pop
+35,Can't Help Falling in Love,Elvis Presley,1961,100,29,40,-14,11,34,182,94,3,78,adult standards
+36,Ninety-Nine Ways,Tab Hunter,2000,125,33,59,-10,9,68,108,87,3,30,deep adult standards
+37,Angel of Mine - Radio Mix,Monica,1998,90,56,59,-7,22,21,250,0,2,66,dance pop
+38,Telegram Sam,T. Rex,1972,123,94,52,-4,9,44,226,2,12,40,album rock
+39,Apologize,Timbaland,2007,118,60,66,-6,10,8,184,4,3,70,dance pop
+40,Voulez-Vous,ABBA,1979,127,77,71,-7,17,90,309,15,4,63,europop
+41,The Boss,Diana Ross,1979,124,91,64,-4,21,83,241,24,5,57,adult standards
+42,"Because You Loved Me (Theme from ""Up Close and Personal"")",CÃ©line Dion,1996,120,47,61,-10,10,18,274,31,3,74,canadian pop
+43,Take Good Care Of My Baby - 1990 Remastered,Bobby Vee,2011,82,43,49,-12,12,66,151,70,6,60,adult standards
+44,Say My Name,Destiny's Child,1999,67,68,52,-4,13,75,271,27,16,67,dance pop
+45,Free - Mood II Swing Radio Edit,Ultra NatÃ©,1997,125,92,76,-6,4,74,233,0,4,60,deep house
+46,Lady Writer,Dire Straits,1979,148,81,63,-9,7,96,225,10,3,61,album rock
+47,Take Good Care Of My Baby - 1990 Remastered,Bobby Vee,2011,82,43,49,-12,12,66,151,70,6,60,adult standards
+48,Crank That (Soulja Boy),Soulja Boy,2007,140,74,74,-2,5,80,222,52,8,76,atl hip hop
+49,Smalltown Boy,Bronski Beat,1984,135,58,69,-11,12,94,302,29,3,71,dance rock
+50,Fireflies,Owl City,2009,180,66,51,-7,12,46,228,3,4,78,pop
+51,Show Me Love,Robin S,2017,120,72,82,-6,8,56,254,1,13,53,disco house
+52,Get A Way,Maxx,1994,133,86,85,-10,5,60,227,3,4,60,bubblegum dance
+53,Now That We Found Love,The O'Jays,1973,114,65,72,-8,27,96,281,25,4,59,classic soul
+54,Hard Habit to Break - 2006 Remaster,Chicago,1984,81,61,58,-6,17,40,284,45,3,61,adult standards
+55,Hysteria,Def Leppard,1987,107,85,66,-6,20,66,355,3,3,68,album rock
+56,It All Depends on You,Craig Douglas,1993,147,32,53,-10,17,73,127,87,7,37,brill building pop
+57,Reelin' In The Years,Steely Dan,1972,135,76,52,-10,11,71,275,12,4,70,album rock
+58,Butterfingers,Tommy Steele,2000,75,14,52,-14,14,26,135,70,3,30,classic uk pop
+59,Self Control,Laura Branigan,1984,107,69,81,-12,16,78,246,22,3,70,dance rock
+60,Hypnotize - 2007 Remaster,The Notorious B.I.G.,2007,94,69,90,-4,29,63,230,18,28,68,east coast hip hop
+61,End Of The Line,Traveling Wilburys,1988,167,84,58,-7,6,93,210,16,5,67,album rock
+62,Living Next Door to Alice,Smokie,1975,126,40,59,-15,25,78,208,11,4,56,classic uk pop
+63,I Gotta Feeling,The Black Eyed Peas,2009,128,77,74,-6,51,61,289,9,3,77,dance pop
+64,Sh-Boom - Single Version,The Chords,2007,137,47,67,-9,27,91,144,85,5,52,doo-wop
+65,Your Song,Elton John,1990,128,33,55,-11,11,30,241,78,3,66,glam rock
+66,Pony,Ginuwine,1999,142,61,75,-9,12,97,252,0,9,72,dance pop
+67,Let's Get Loud,Jennifer Lopez,1999,131,94,82,-5,35,91,239,14,6,69,dance pop
+68,Baretta's Theme,Sammy Davis Jr.,2002,105,91,64,-8,28,69,146,35,6,48,adult standards
+69,Let's Fall in Love,James Darren,2014,128,29,51,-11,8,58,128,78,4,39,adult standards
+70,No Scrubs,TLC,1999,93,68,74,-4,7,59,214,3,10,79,atl hip hop
+71,Take Me Home Country Roads,John Denver,1971,82,40,46,-9,12,63,190,76,3,70,adult standards
+72,Mr. Blue Sky,Electric Light Orchestra,1977,178,34,39,-10,25,48,303,65,3,79,album rock
+73,Pachuko Hop,Ike Carpenter Orchestra,2006,83,53,48,-9,34,80,135,59,3,28,
+74,Crying,Roy Orbison,2017,97,47,23,-6,32,21,179,57,3,49,adult standards
+75,Temperature,Sean Paul,2005,125,60,95,-5,7,82,219,11,7,75,dance pop
+76,Don't Look Back in Anger - Remastered,Oasis,1995,163,94,33,-3,15,33,290,7,6,73,britpop
+77,Ophelia - Remastered 2000,The Band,1975,92,68,83,-7,33,95,213,68,3,61,album rock
+78,You'll Never Walk Alone,Gerry & The Pacemakers,2017,114,43,45,-6,22,29,160,42,3,49,adult standards
+79,The Ballad of Bonnie & Clyde,Georgie Fame,1968,107,47,71,-10,25,74,190,71,9,38,british blues
+80,Let It Rock,Kevin Rudolf,2008,113,78,61,-4,7,44,231,0,4,65,dance pop
+81,Barabajagal (with Jeff Beck Group),Donovan,1969,100,57,67,-17,8,68,200,10,7,42,art rock
+82,I Love My Girl,The Hilltoppers,2011,123,45,74,-10,10,96,106,88,4,38,deep adult standards
+83,Kids In America,Kim Wilde,1981,160,78,56,-4,12,31,206,10,5,68,dance pop
+84,Sheila,Tommy Roe,1962,136,57,42,-9,6,48,127,28,11,42,adult standards
+85,Baby Come Back,Player,2007,157,57,65,-11,12,56,214,5,11,59,soft rock
+86,Heal the World,Michael Jackson,1991,81,49,53,-8,10,10,384,54,5,67,pop
+87,I Wanna Love You,Akon,2006,100,45,87,-9,31,35,247,4,4,70,dance pop
+88,Peppermint Twist Pt.1,Joey Dee,2019,199,73,42,-11,73,72,122,37,14,30,australian talent show
+89,The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime),Scott Walker,1969,91,45,42,-16,16,78,221,58,4,54,art pop
+90,Forever Young,Alphaville,1984,137,48,49,-9,24,33,227,42,3,73,dance rock
+91,Little Things Means A Lot,Jayne Mansfield,2008,109,29,70,-15,16,63,172,36,4,29,
+92,Cooler Than Me - Single Mix,Mike Posner,2010,130,82,75,-5,69,65,213,15,6,60,dance pop
+93,Bleeding Love,Leona Lewis,2007,104,65,64,-6,15,20,263,19,4,70,british soul
+94,The Game Of Love,Wayne Fontana & The Mindbenders,1964,109,83,57,-4,19,96,127,9,3,43,british invasion
+95,Everybody Wants To Rule The World,Tears For Fears,1985,112,80,65,-12,10,54,251,35,5,80,dance rock
+96,16 Candles,Johnny Maestro,1993,114,31,60,-11,9,60,175,73,3,53,brill building pop
+97,Puppy Love - Remix,Paul Anka,2000,102,41,29,-10,27,54,164,66,3,56,adult standards
+98,Life in the Fast Lane - 2013 Remaster,Eagles,1976,110,76,67,-7,5,88,286,10,7,72,album rock
+99,The Lady Is A Tramp,Mel Torme & the Mel-Tones,2016,138,60,41,-8,41,54,170,81,6,40,
+100,Are You Ready For Love? - Remastered,Elton John,2017,117,75,80,-5,11,75,212,25,3,67,glam rock
+101,King Of My Castle - Roy Malone's King Mix,Wamdue Project,2009,125,54,87,-9,6,76,299,4,8,55,disco house
+102,Hurts So Good,John Mellencamp,1982,125,74,79,-5,11,97,219,4,4,69,album rock
+103,Pictures of Matchstick Men - Mono Version,Status Quo,1968,173,60,24,-4,5,42,191,7,3,54,album rock
+104,Only Because,The Platters,1957,73,28,55,-10,9,47,174,85,3,44,adult standards
+105,Over Under Sideways Down - The Mono Album,The Yardbirds,1966,97,86,53,-11,31,39,143,29,8,46,album rock
+106,She'd Rather Be With Me,The Turtles,1967,124,78,49,-11,15,94,142,27,3,46,brill building pop
+107,Better Off Alone,Alice DJ,2000,137,82,67,-9,29,76,218,0,6,71,europop
+108,Chicago - Remastered,Frank Sinatra,1958,148,46,51,-10,40,79,134,61,7,47,adult standards
+109,Alors on danse,Stromae,2010,120,59,79,-9,7,71,206,10,8,73,belgian pop
+110,Leave The World Behind - Radio Edit,Axwell,2009,128,85,53,-8,32,28,162,0,5,58,big room
+111,Break Your Heart,Taio Cruz,2010,122,93,61,-4,9,57,202,3,3,71,dance pop
+112,Bailando,Paradisio,1997,133,94,65,-9,12,84,229,8,4,58,bubblegum dance
+113,Don't Stop,ATB,1999,134,94,71,-5,32,57,221,15,4,56,german dance
+114,Boulder to Birmingham - Remastered,Emmylou Harris,1975,126,32,48,-11,10,31,213,78,3,59,country rock
+115,Piu bella cosa,Eros Ramazzotti,2014,110,79,67,-5,11,62,265,8,3,58,italian pop
+116,Uptown Girl,Billy Joel,1983,129,94,70,-3,60,79,198,7,5,77,album rock
+117,Ca' the Yowes,Shirley & Dolly Collins,2008,80,7,32,-10,27,32,208,76,3,41,british folk
+118,Halo,BeyoncÃ©,2008,80,72,51,-6,6,47,262,27,6,77,dance pop
+119,L-O-V-E,Nat King Cole,1992,78,37,43,-8,8,66,155,68,8,68,adult standards
+120,Sorry Seems To Be The Hardest Word,Elton John,1976,118,22,37,-13,20,11,229,83,3,62,glam rock
+121,A Thousand Miles Away,The Temprees,1984,75,26,48,-15,28,30,199,39,3,39,classic soul
+122,Walking in Memphis,Cher,1995,129,68,70,-7,17,53,235,59,3,66,dance pop
+123,Arthur's Theme (Best That You Can Do),Christopher Cross,1981,137,52,53,-11,18,52,234,17,4,70,adult standards
+124,Running Up That Hill (A Deal With God),Kate Bush,1985,108,55,63,-13,6,20,299,72,6,67,art pop
+125,You To Me Are Everything,The Real Thing,1999,102,91,64,-8,8,82,210,23,10,62,brit funk
+126,I Feel Love - Edit,Donna Summer,2018,126,91,66,-9,8,94,227,3,4,52,dance pop
+127,Move On Up,Curtis Mayfield,1970,139,97,54,-6,12,93,166,42,9,66,chicago soul
+128,Please Forgive Me,Bryan Adams,2005,67,46,53,-7,10,15,356,50,3,43,album rock
+129,Lost in Music,Sister Sledge,1979,114,84,76,-8,10,85,287,5,3,58,dance pop
+130,Broken Strings,James Morrison,2008,112,72,57,-5,8,32,250,1,3,70,neo mellow
+131,The Riddle,Nik Kershaw,1984,102,66,58,-8,14,90,235,12,3,63,dance rock
+132,It's All In The Game,Tommy Edwards,1994,105,28,38,-14,31,65,159,4,3,49,deep adult standards
+133,7 Days,Craig David,2001,83,81,66,-7,10,89,235,23,5,70,british soul
+134,Take It Easy - 2013 Remaster,Eagles,1972,139,67,57,-10,13,74,212,34,3,75,album rock
+135,Everybody Loves Somebody,Dean Martin,2013,81,49,26,-9,34,40,162,81,4,61,adult standards
+136,Walkin’ My Baby Back Home,Dean Martin,2007,127,17,72,-13,7,78,175,98,7,39,adult standards
+137,Be With You,Enrique Iglesias,1999,122,87,68,-5,5,54,219,4,3,55,dance pop
+138,Valerie,Steve Winwood,1982,116,53,72,-11,8,73,247,57,3,65,album rock
+139,The Winner Takes It All,ABBA,1980,126,79,45,-7,9,52,295,57,4,72,europop
+140,"Up Where We Belong - From ""An Officer And A Gentleman""",Joe Cocker,2000,140,31,63,-12,7,24,233,61,3,67,album rock
+141,Moviestar,Harpo,1976,119,79,55,-8,33,71,202,29,3,56,classic uk pop
+142,Poetry In Motion,Johnny Tillotson,2011,135,71,49,-7,10,90,154,40,3,41,adult standards
+143,Angels,Robbie Williams,1997,150,59,43,-6,10,24,265,16,3,73,dance pop
+144,What the World Needs Now Is Love,Dionne Warwick,2016,112,36,57,-10,14,40,190,92,4,51,adult standards
+145,Tulips From Amsterdam,Max Bygraves,2000,93,45,56,-7,15,70,135,49,3,41,british comedy
+146,If You Ever,East 17,1996,140,68,58,-9,31,57,255,18,3,48,boy band
+147,Daddy Cool,Boney M.,1994,125,63,75,-12,23,96,206,25,4,53,disco
+148,Radio Ga Ga - 2011 Mix,Queen,1984,112,50,74,-8,19,66,348,18,4,76,glam rock
+149,Lollipop,Lil Wayne,2008,148,43,83,-9,14,45,299,6,8,71,hip hop
+150,I Think We're Alone Now,Tiffany,2008,130,89,65,-5,9,70,227,0,4,58,new wave pop
+151,Higher Love - Single Version,Steve Winwood,2007,99,89,70,-7,50,92,252,6,4,66,album rock
+152,My Heart Belongs to Me,Barbra Streisand,1977,139,21,27,-16,18,30,201,74,3,44,adult standards
+153,Please Don't Go,Double You,1992,120,84,71,-12,3,49,200,6,4,59,eurodance
+154,I'll Be Missing You (feat. 112),Diddy,2004,110,48,86,-9,59,93,302,5,6,71,dance pop
+155,Brothers In Arms,Dire Straits,1985,79,30,41,-14,18,14,424,53,3,71,album rock
+156,Goin' Back,The Byrds,1968,116,45,50,-10,12,55,206,36,3,47,art rock
+157,Waterloo Sunset - Mono Mix,The Kinks,1967,108,69,51,-7,17,42,194,16,2,65,album rock
+158,Raindrops,Roy Orbison,1961,103,44,59,-10,5,90,113,52,3,38,adult standards
+159,Doctor Doctor - 2007 Remaster,UFO,1974,143,80,30,-7,50,56,252,0,5,60,album rock
+160,Material Girl,Madonna,2009,137,88,74,-3,10,98,240,33,3,72,dance pop
+161,Panama - 2015 Remaster,Van Halen,1984,141,98,53,-5,7,46,210,0,11,73,album rock
+162,Every Time You Go Away - Radio Edit,Paul Young,1991,164,72,57,-9,22,84,267,19,4,70,album rock
+163,Another One Bites The Dust - Remastered 2011,Queen,1980,110,53,93,-6,16,75,215,11,16,82,glam rock
+164,Knock You Down,Keri Hilson,2009,155,88,59,-5,17,65,326,1,16,56,dance pop
+165,Baby I Need Your Loving,Four Tops,1965,121,69,63,-6,19,65,166,44,4,63,adult standards
+166,Sweet Dreams,La Bouche,2007,134,96,66,-6,9,83,205,8,5,62,bubblegum dance
+167,The Rhythm of the Night,Corona,1994,128,81,69,-12,10,80,264,0,3,69,bubblegum dance
+168,Dancing With Myself,Billy Idol,1985,177,70,51,-11,30,91,360,2,8,68,album rock
+169,When the Children Cry,White Lion,1987,130,24,49,-14,7,38,259,67,3,61,album rock
+170,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,2004,171,74,69,-5,34,6,322,1,26,76,detroit hip hop
+171,Silence Is Golden,The Tremeloes,1997,112,56,44,-7,24,58,191,6,3,53,adult standards
+172,Born in the U.S.A.,Bruce Springsteen,1984,122,95,40,-6,10,58,279,0,6,75,classic rock
+173,Immigrant Song - Remaster,Led Zeppelin,1970,113,93,56,-10,35,62,146,1,6,77,album rock
+174,Dancing In The Moonlight,King Harvest,1973,136,72,65,-5,41,68,178,68,4,56,soft rock
+175,Surf City - Remastered 1990/Stereo Remix,Jan & Dean,1990,148,65,47,-14,34,94,163,60,3,48,brill building pop
+176,Dream A Little Dream Of Me,Ella Fitzgerald,1963,72,7,28,-24,11,22,246,93,8,54,adult standards
+177,Fame - Rerecorded,Irene Cara,2018,131,80,71,-7,8,94,319,7,3,62,dance rock
+178,Please Mr. Postman,Carpenters,1975,133,55,66,-12,24,96,173,14,3,62,adult standards
+179,Pon de Replay,Rihanna,2005,99,64,78,-8,10,50,247,0,16,73,barbadian pop
+180,Won't Get Fooled Again - Original Album Version,The Who,1971,135,92,69,-6,8,23,511,30,6,65,album rock
+181,Boom Boom Pow,The Black Eyed Peas,2009,130,86,87,-6,13,40,251,13,7,68,dance pop
+182,Locomotive,Thelonious Monk,1967,112,44,67,-11,13,70,400,78,4,46,bebop
+183,We Will Rock You - Remastered,Queen,1977,81,50,69,-7,26,48,122,68,12,79,glam rock
+184,Thank God I Found You,Mariah Carey,1999,130,53,47,-6,11,15,257,59,3,61,dance pop
+185,Moving too fast - Radio Edit,Artful Dodger,2012,127,51,84,-11,3,52,238,9,5,57,uk garage
+186,This Will Be Our Year,The Zombies,1968,98,42,54,-7,19,54,128,63,3,61,art rock
+187,Imagine - Remastered,John Lennon,1971,76,26,55,-12,9,17,188,91,3,77,album rock
+188,Bump Bump Bump,B2K,2003,96,68,84,-6,5,89,283,10,21,60,boy band
+189,TiK ToK,Kesha,2014,120,67,75,-7,28,63,200,6,12,63,dance pop
+190,Since You Been Gone,Rainbow,1997,121,60,73,-10,60,94,198,37,4,63,album rock
+191,Mamma Mia,ABBA,1975,138,75,75,-7,47,83,213,30,3,72,europop
+192,You Mean Everything to Me,Neil Sedaka,1959,72,43,37,-8,13,68,158,52,3,48,adult standards
+193,Impossible - Main,Shontelle,2019,90,57,59,-5,11,51,226,44,4,32,barbadian pop
+194,Real Real Gone,Van Morrison,1990,142,85,70,-7,19,95,221,38,3,56,classic rock
+195,Boom Boom Boom Boom!!,Vengaboys,2000,138,89,80,-7,3,97,202,1,4,73,bubblegum dance
+196,Live Wire,The Meters,1969,114,77,68,-12,17,96,160,27,4,36,afrobeat
+197,Take A Bow,Rihanna,2008,82,47,70,-8,9,57,229,25,7,77,barbadian pop
+198,Sweet Caroline,Neil Diamond,1969,63,13,53,-16,24,58,204,61,3,78,adult standards
+199,A Song for You,Donny Hathaway,1971,88,22,32,-13,25,7,326,82,4,65,chicago soul
+200,Brandy (You're a Fine Girl),Looking Glass,1972,125,63,72,-11,13,83,187,40,6,73,soft rock
+201,We Are Never Ever Getting Back Together,Taylor Swift,2012,86,68,63,-6,12,75,193,1,9,73,dance pop
+202,Whatever Will Be Will Be (Que Sera Sera) (with Frank DeVol & His Orchestra) - Single Version,Doris Day,1948,177,34,42,-11,72,78,123,86,4,62,adult standards
+203,Beautiful Girls,Sean Kingston,2014,118,64,54,-7,24,75,242,14,9,60,dance pop
+204,Sexy Bitch (feat. Akon) - Extended,David Guetta,2009,130,30,96,-6,8,80,312,2,13,60,dance pop
+205,American Boy,Estelle,2008,118,73,73,-3,7,51,285,17,33,79,r&b
+206,Love Lockdown,Kanye West,2008,120,52,76,-8,11,11,270,5,3,67,chicago rap
+207,Sacrifice,Elton John,1989,113,42,76,-13,4,49,304,2,3,72,glam rock
+208,I Want You,Marvin Gaye,1976,101,79,52,-10,24,74,274,85,3,56,classic soul
+209,Heaven,Bryan Adams,1984,140,59,38,-7,12,34,243,5,3,76,album rock
+210,Waterloo,ABBA,1974,148,95,45,-5,9,65,169,40,5,66,europop
+211,Love Comes To Everyone - 2004 Mix,George Harrison,1979,107,68,72,-9,5,51,276,7,4,55,album rock
+212,Cold as Ice - 2008 Remaster,Foreigner,2008,131,71,55,-5,14,51,200,6,3,57,album rock
+213,Gloria,Laura Branigan,1995,131,87,78,-4,15,88,295,14,3,66,dance rock
+214,Sunshine Reggae,Laid Back,2008,168,79,70,-6,8,93,258,10,4,64,classic danish pop
+215,Sunny,Boney M.,1976,122,87,65,-6,13,80,242,9,11,64,disco
+216,Seven Days,Anne Shelton,2016,90,27,53,-8,27,72,149,89,3,33,british dance band
+217,When the Heartache Is Over,Tina Turner,1999,115,77,69,-6,7,43,224,1,3,58,disco
+218,Sailing,Rod Stewart,1975,129,37,43,-10,32,19,278,37,3,68,adult standards
+219,A Tear Fell,Teresa Brewer,1995,86,16,42,-16,18,46,156,92,5,37,adult standards
+220,Let There Be You,The Five Keys,1989,92,11,36,-15,20,23,154,97,3,38,doo-wop
+221,If I Give My Heart To You,The Teddy Bears,2011,113,29,49,-10,12,29,118,86,3,40,
+222,Freed From Desire,Gala,2007,129,86,70,-4,10,64,213,59,5,71,eurodance
+223,On The Sunny Side Of The Ocean,John Fahey,1965,116,73,48,-10,16,48,193,81,3,41,drone folk
+224,Fire on the Mountain,The Marshall Tucker Band,1975,102,83,51,-6,16,57,236,11,4,58,album rock
+225,I Got Lucky,Elvis Presley,1971,93,39,73,-12,20,96,116,84,4,49,adult standards
+226,Mr. Blue,The Fleetwoods,1993,97,9,37,-17,11,21,145,93,4,55,adult standards
+227,The Shape I'm In - Remastered 2000,The Band,1970,128,67,72,-8,30,96,241,24,4,54,album rock
+228,Picture Of You,Boyzone,1997,117,92,76,-6,37,88,206,10,4,65,boy band
+229,Cheri Cheri Lady,Modern Talking,1985,114,62,68,-14,35,85,226,46,3,66,eurodance
+230,Fix You,Coldplay,2005,138,42,21,-9,11,12,296,16,3,81,permanent wave
+231,Summer Of '69,Bryan Adams,1984,139,83,51,-6,7,77,216,2,4,80,album rock
+232,Kisses Sweeter Than Wine,Frankie Vaughan,2010,87,46,57,-9,18,86,138,61,5,31,merseybeat
+233,Flashdance...What a Feeling - Radio Edit,Irene Cara,1983,122,65,57,-7,9,40,237,1,3,70,dance rock
+234,Knowing Me Knowing You,ABBA,1976,107,73,55,-7,24,91,242,4,3,61,europop
+235,The Scientist,Coldplay,2002,146,44,56,-7,11,21,310,73,2,83,permanent wave
+236,Rhythm Of The Night,DeBarge,1985,115,76,71,-12,8,96,229,8,5,64,disco
+237,Gangsta's Paradise,Coolio,1995,80,63,64,-6,40,42,242,4,5,54,g funk
+238,Gloria - Stereo Version,Them,2015,129,70,64,-10,10,72,157,40,5,62,blues rock
+239,I'll Be There,Mariah Carey,1998,82,51,41,-10,93,30,264,70,3,56,dance pop
+240,Bennie And The Jets - Remastered 2014,Elton John,1973,133,67,67,-8,50,78,323,26,5,65,glam rock
+241,Brother Louie,Modern Talking,1986,109,84,78,-9,14,83,223,40,5,67,eurodance
+242,Stronger,Kanye West,2007,104,72,62,-8,41,49,312,1,15,80,chicago rap
+243,Telstar,The Tornados,1962,146,75,20,-7,38,63,195,0,4,45,british invasion
+244,Nothing's Gonna Change My Love For You,Glenn Medeiros,1986,142,43,45,-13,6,39,232,57,4,64,soft rock
+245,Have You Ever - Radio Edit,Brandy,2005,134,48,68,-7,30,23,215,60,4,54,dance pop
+246,Heaven Is a Place on Earth,Belinda Carlisle,2013,123,85,64,-8,5,79,247,2,3,70,dance pop
+247,Superstar,Jamelia,2003,110,65,80,-7,4,82,215,5,4,67,europop
+248,I Have Nothing - Film Version,Whitney Houston,2017,153,45,49,-9,9,17,296,76,3,61,dance pop
+249,Ain't No Mountain High Enough,Diana Ross,2017,99,79,39,-5,38,38,215,19,4,60,adult standards
+250,Lonesome Town - 1990 Digital Remaster,Ricky Nelson,1990,78,10,51,-18,10,30,136,86,3,54,adult standards
+251,Father And Son,Yusuf / Cat Stevens,1970,136,33,50,-11,10,40,221,59,3,74,british folk
+252,My September Love,David Whitfield,2000,137,21,24,-17,20,14,166,65,3,33,deep adult standards
+253,Happy Days And Lonely Nights,Suzi Miller And Johnson Brothers,2012,142,38,65,-8,13,69,146,43,3,27,
+254,Fat Bottomed Girls - 2011 Remaster,Queen,1978,89,68,33,-8,34,42,256,3,5,67,glam rock
+255,I Know What You Want (feat. Flipmode Squad),Busta Rhymes,2002,86,75,56,-4,64,49,324,1,32,56,east coast hip hop
+256,Don't Go Breaking My Heart,Elton John,1975,131,84,73,-9,6,78,275,15,3,75,glam rock
+257,Breakeven,The Script,2008,94,70,63,-5,8,49,261,14,2,68,celtic rock
+258,Killer Queen - 2011 Mix,Queen,1974,117,65,54,-6,13,61,180,39,5,51,glam rock
+259,Can't Take My Eyes Off You,Frankie Valli,2017,124,78,58,-7,8,56,204,51,6,53,adult standards
+260,What A Girl Wants - Eddie Arroyo Dance Radio Edit,Christina Aguilera,1999,130,92,75,-7,7,66,244,1,3,40,dance pop
+261,Dreams,Gabrielle,1993,99,47,75,-14,22,57,223,17,4,64,british soul
+262,Come On Eileen,Dexys Midnight Runners,2009,107,87,41,-4,8,82,206,20,9,68,bow pop
+263,Isfahan,Duke Ellington,1967,173,7,25,-14,10,9,246,98,3,47,adult standards
+264,Africa,TOTO,1982,93,37,67,-18,5,73,296,26,3,83,album rock
+265,What Becomes Of The Brokenhearted,Jimmy Ruffin,1989,99,42,72,-13,57,60,176,62,3,59,brill building pop
+266,Stairway Of Love,Terry Dene,2015,93,62,62,-7,25,86,120,55,4,27,
+267,You,Ten Sharp,1991,174,90,41,-8,19,67,273,43,3,61,
+268,Indian Reservation (The Lament of the Cherokee Reservation Indian),Paul Revere & The Raiders,1971,132,39,64,-13,9,21,172,28,8,46,brill building pop
+269,Everything I Own,Bread,1972,79,34,37,-13,10,45,187,74,3,69,adult standards
+270,Last Christmas,Wham!,2019,108,58,74,-9,18,94,265,19,3,78,dance rock
+271,Friday On My Mind,The Easybeats,1965,95,99,37,-1,9,51,163,38,8,59,australian rock
+272,Doin' It,LL Cool J,1996,95,53,81,-12,12,62,294,34,19,46,east coast hip hop
+273,Let It Be - Remastered 2009,The Beatles,1970,143,40,44,-8,11,41,243,63,3,79,british invasion
+274,My Spiritual Indian,Eddie Palmieri,1969,121,92,48,-6,7,50,400,58,8,41,boogaloo
+275,Pinball Wizard,The Who,1969,124,72,54,-9,26,47,181,2,4,69,album rock
+276,Return of the Mack,Mark Morrison,1996,95,83,72,-5,16,61,213,1,11,72,british soul
+277,Fantasy,Mariah Carey,1995,102,73,67,-8,12,80,243,14,4,70,dance pop
+278,Don't Stop The Music,Rihanna,2008,123,67,84,-6,5,54,267,3,6,76,barbadian pop
+279,Rockstar,Nickelback,2005,144,91,62,-3,34,69,252,5,4,71,alternative metal
+280,Detroit Rock City,KISS,1978,91,90,55,-7,29,46,216,4,7,68,album rock
+281,Please Mr. Postman,The Marvelettes,1961,122,78,79,-5,18,97,148,73,3,68,brill building pop
+282,Rhythm of the Rain,The Cascades,1963,117,66,66,-8,14,67,146,63,4,59,adult standards
+283,Something,Lasgo,2001,140,98,64,-7,11,38,221,3,4,63,belgian dance
+284,You Give Love A Bad Name,Bon Jovi,1986,123,96,54,-3,34,81,223,7,5,80,glam metal
+285,Bed Of Roses,Bon Jovi,1992,165,60,31,-6,21,16,394,10,3,73,glam metal
+286,Where Do Broken Hearts Go,Whitney Houston,1987,62,39,46,-12,7,25,278,63,3,67,dance pop
+287,Gasolina,Daddy Yankee,2004,96,80,86,-6,8,75,193,33,6,76,latin
+288,Come Together - Remastered 2009,The Beatles,1969,165,38,53,-12,9,19,260,3,4,79,british invasion
+289,Runaround,The Fleetwoods,2011,79,14,37,-15,12,36,154,95,4,39,adult standards
+290,I Knew You Were Waiting (For Me),George Michael,1986,108,68,73,-11,31,68,242,27,4,60,new wave pop
+291,I Was Made For Lovin' You,KISS,1979,128,85,77,-6,7,87,271,21,4,78,album rock
+292,It's Raining Men,The Weather Girls,1996,136,93,68,-6,70,61,211,32,12,64,disco
+293,Walkin' Back to Happiness,Helen Shapiro,2017,97,67,65,-9,17,83,150,66,8,42,adult standards
+294,Eye of the Tiger,Survivor,1985,109,60,82,-9,9,55,246,13,3,76,album rock
+295,Bohemian Rhapsody - 2011 Mix,Queen,1975,71,40,41,-10,30,22,354,27,5,84,glam rock
+296,Today,Jefferson Airplane,1967,90,31,51,-14,13,29,178,70,3,59,art rock
+297,Travelin' Man - Remastered,Ricky Nelson,1991,123,36,74,-12,12,86,143,67,3,55,adult standards
+298,Surfin' U.S.A. - Remastered,The Beach Boys,1963,159,85,55,-6,11,97,149,66,4,71,baroque pop
+299,Pump Up The Jam,Technotronic,2019,125,84,89,-9,5,72,320,1,7,46,eurodance
+300,Guilty (feat. Barry Gibb),Barbra Streisand,1980,151,43,63,-16,11,95,264,23,4,67,adult standards
+301,Let Me Love You,Mario,2004,95,58,66,-9,12,56,257,24,9,76,dance pop
+302,L'Amour Toujours,Gigi D'Agostino,2011,139,73,62,-8,36,81,239,3,3,67,eurodance
+303,I Want It That Way,Backstreet Boys,2001,99,70,69,-6,16,48,214,22,3,76,boy band
+304,Replay,Iyaz,2009,91,75,71,-6,17,20,182,17,7,74,dance pop
+305,Everybody Needs Somebody To Love - Long Version,The Rolling Stones,1965,178,73,53,-8,11,80,303,26,7,52,album rock
+306,Das Boot,U96,1992,123,88,64,-8,25,33,314,1,7,56,bubble trance
+307,Sea Of Love,Marty Wilde,2010,84,39,45,-9,13,39,144,91,3,32,brill building pop
+308,St. Elmos Fire (Man in Motion),John Parr,1985,111,60,61,-11,22,47,252,15,3,68,album rock
+309,Both Sides Now,Joni Mitchell,1969,97,16,62,-15,14,33,275,91,3,58,canadian folk
+310,Where Is The Love?,The Black Eyed Peas,2003,94,69,84,-3,13,83,273,10,18,75,dance pop
+311,Lucky Star,Madonna,1983,117,81,80,-5,22,93,338,20,4,46,dance pop
+312,Come Softly To Me,Frankie Vaughan,2010,131,34,57,-14,35,89,142,82,3,30,merseybeat
+313,White Room,Cream,1968,110,58,55,-13,4,46,298,19,3,73,album rock
+314,Midnight Train to Georgia - Short Version,Gladys Knight & The Pips,1973,177,42,44,-10,19,39,199,7,8,53,adult standards
+315,No Other Love,Bob Sharples & His Music,2014,97,31,37,-10,27,10,171,69,3,31,
+316,Outside My Window,The Fleetwoods,1993,106,16,59,-18,11,47,129,88,3,39,adult standards
+317,Itchycoo Park (Mono Version) - 2012 Remaster,Small Faces,1967,127,56,61,-10,12,56,167,58,7,51,art rock
+318,That's What Friends Are For,Dionne Warwick,1985,120,24,68,-16,7,17,256,51,3,66,adult standards
+319,S.O.S.,ABBA,1975,125,71,42,-6,29,58,202,25,3,59,europop
+320,Stumblin' In - 2017 Remaster,Suzi Quatro,1978,129,72,76,-11,35,92,240,13,3,61,classic uk pop
+321,Everybody's Talkin',Fred Neil,1998,120,30,67,-13,15,57,165,52,3,46,american folk revival
+322,Fergalicious,Fergie,2006,129,58,91,-8,13,83,292,6,32,63,dance pop
+323,It's Only Love - 2008 Remaster,Simply Red,2008,92,88,67,-5,4,75,299,51,4,50,british soul
+324,Let Your Love Flow,The Bellamy Brothers,1976,109,55,68,-15,14,95,199,6,3,68,country
+325,Starman - 2012 Remaster,David Bowie,1972,100,45,49,-10,54,55,254,17,3,73,album rock
+326,Rebel Rebel - 2016 Remaster,David Bowie,1974,126,69,64,-16,28,46,275,21,5,74,album rock
+327,Che La Luna,Louis Prima,1973,127,64,68,-12,21,99,152,30,6,44,adult standards
+328,Comment te dire adieu - It Hurts to Say Goodbye,Françoise Hardy,2005,124,45,73,-12,11,84,146,20,6,59,chanson
+329,All Right,Christopher Cross,1983,133,65,71,-5,23,50,254,17,4,63,adult standards
+330,Mr. Vain - Original Radio Edit,Culture Beat,1993,133,100,70,-8,12,39,257,7,4,69,bubblegum dance
+331,I've Waited So Long,Anthony Newley,2012,137,36,27,-15,25,28,165,64,4,26,
+332,The Real Slim Shady,Eminem,2000,105,66,95,-4,5,76,284,3,6,80,detroit hip hop
+333,The Boy Is Mine,Brandy,1998,93,71,70,-7,32,76,295,54,4,66,dance pop
+334,Spanish Eyes,Al Martino,1977,109,49,51,-9,9,49,167,36,3,49,adult standards
+335,Everlasting Love,Love Affair,2012,121,60,50,-10,49,81,182,26,4,51,bubblegum pop
+336,Every Breath You Take,The Police,2017,117,48,82,-9,8,72,252,56,3,67,album rock
+337,U Remind Me,Usher,2001,94,63,66,-5,25,73,267,19,8,73,atl hip hop
+338,Here Comes The Sun - Remastered 2009,The Beatles,1969,129,54,56,-10,18,39,186,3,3,82,british invasion
+339,Tous les garçons et les filles - Slow,Françoise Hardy,1962,108,37,74,-10,14,89,188,81,3,57,chanson
+340,Rock And Roll All Nite,KISS,1975,145,93,65,-6,5,90,169,5,10,75,album rock
+341,When Love Takes Over (feat. Kelly Rowland),David Guetta,2009,130,86,66,-5,20,50,189,1,3,63,dance pop
+342,Snap Yo Fingers,Youngbloodz,2006,82,76,84,-5,29,63,274,1,23,68,atl hip hop
+343,Call on Me - Radio Mix,Eric Prydz,2004,126,84,60,-7,84,45,171,0,38,72,big room
+344,I'm Gonna Make You Love Me,Diana Ross & The Supremes,1968,98,39,64,-12,26,43,187,39,4,54,classic girl group
+345,Gigi,Billy Eckstine,1958,81,12,21,-17,12,19,155,93,3,35,adult standards
+346,Listen to Your Heart,Roxette,1988,86,58,54,-5,11,34,328,11,3,75,europop
+347,I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,1987,119,82,71,-9,9,87,291,21,5,80,dance pop
+348,To The Aisle,The Five Satins,2008,195,27,32,-10,10,55,166,91,4,41,brill building pop
+349,You Make Me Feel Like Dancing,Leo Sayer,1976,96,73,73,-5,11,71,221,8,5,57,adult standards
+350,No Matter What,Boyzone,1998,93,42,70,-9,14,53,274,19,2,65,boy band
+351,Are You Really Mine,Jimmy Rodgers,2014,102,19,69,-17,13,56,148,77,3,31,yodeling
+352,Lovely Sky Boat,Alice Coltrane,1968,119,43,34,-17,19,44,411,45,5,38,afropop
+353,Rubber Ball,Bobby Vee,1961,143,43,42,-10,18,77,144,69,4,47,adult standards
+354,Low (feat. T-Pain),Flo Rida,2008,128,61,92,-6,14,30,231,9,8,79,dance pop
+355,Spending My Time,Roxette,1991,171,57,42,-5,13,22,276,24,3,69,europop
+356,Hold On My Heart - 2007 Digital Remaster,Genesis,1991,172,36,46,-13,7,27,278,61,3,56,album rock
+357,Sh-Boom (Life Could Be A Dream),The Crew Cuts,2006,130,27,67,-11,23,56,168,85,9,51,doo-wop
+358,Held for Questioning,Rusty Draper,1953,109,65,70,-2,14,85,146,79,3,26,deep adult standards
+359,Live Your Life (feat. Rihanna),T.I.,2008,160,86,38,-3,21,48,339,7,26,74,atl hip hop
+360,"Ferry Cross the Mersey - Stereo, 1997 Remaster",Gerry & The Pacemakers,1997,105,29,40,-11,12,61,144,55,3,56,adult standards
+361,Maniac,Michael Sembello,1983,159,53,62,-12,4,84,245,9,7,73,hi-nrg
+362,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,1997,108,85,73,-4,27,61,225,4,4,73,boy band
+363,Hot Diggity,Stargazers,2001,109,64,88,-9,60,96,134,61,11,31,
+364,Hey Jude - Remastered 2009,The Beatles,1973,145,55,40,-10,9,67,431,3,3,67,british invasion
+365,Just the Way You Are,Bruno Mars,2010,109,84,64,-5,9,43,221,2,4,77,pop
+366,Build Me Up Buttercup,The Foundations,1968,134,51,66,-7,28,85,178,31,3,72,brill building pop
+367,Anyone Of Us (Stupid Mistake),Gareth Gates,2002,107,72,70,-6,8,65,228,28,3,61,europop
+368,Ain't Got No Home,"Clarence ""Frogman"" Henry",2013,84,33,66,-16,9,53,143,69,9,36,louisiana blues
+369,Empire State of Mind (Part II) Broken Down,Alicia Keys,2009,93,37,48,-8,12,14,216,74,3,75,hip pop
+370,Dreams - 2004 Remaster,Fleetwood Mac,1977,120,49,83,-10,13,79,258,6,3,79,album rock
+371,Yesterday - Remastered 2009,The Beatles,1965,97,18,33,-12,9,32,126,88,3,78,british invasion
+372,High,Lighthouse Family,1997,102,63,66,-9,13,59,308,11,3,68,europop
+373,Now And Forever,Richard Marx,1994,78,26,44,-11,11,17,215,66,3,65,mellow gold
+374,Lady - Hear Me Tonight,Modjo,2001,126,81,72,-6,6,87,307,1,4,68,disco house
+375,Rocket Man (I Think It's Going To Be A Long Long Time),Elton John,1972,137,53,60,-9,9,34,282,43,3,81,glam rock
+376,Listen to the Music,The Doobie Brothers,1972,106,60,65,-13,7,91,227,22,3,75,album rock
+377,Hero,Mariah Carey,1993,120,38,50,-9,12,18,258,74,3,71,dance pop
+378,The Boys Are Back In Town,Thin Lizzy,1976,81,71,45,-10,21,77,267,23,5,74,album rock
+379,Sad Eyes - Remastered,Robert John,2002,107,46,43,-7,13,69,253,60,3,53,soft rock
+380,It's Not Right But It's Okay,Whitney Houston,1998,128,80,81,-7,7,53,292,16,10,64,dance pop
+381,Ain't That Just the Way,Lutricia McNeal,1996,174,65,74,-9,19,77,215,6,22,55,
+382,It's A Shame,The Spinners,1970,199,64,37,-12,12,71,190,9,6,64,classic soul
+383,In Da Club,50 Cent,2003,90,71,90,-3,7,78,193,26,37,77,east coast hip hop
+384,Love Really Hurts Without You,Billy Ocean,2016,141,90,52,-4,10,96,179,0,3,66,dance rock
+385,Save a Prayer - 2009 Remaster,Duran Duran,1982,114,71,57,-9,16,67,333,35,3,62,dance rock
+386,Myself When I Am Real,Charles Mingus,1963,81,19,32,-17,8,10,456,99,4,41,avant-garde jazz
+387,Rock with You - Single Version,Michael Jackson,1979,114,54,81,-13,16,85,221,18,4,72,pop
+388,Crush,David Archuleta,2008,162,66,57,-5,7,49,214,1,3,70,dance pop
+389,Let There Be Love - 2002 Digital Remaster,Simple Minds,1991,88,88,49,-6,13,60,309,8,4,57,art rock
+390,Mr. Soul,Buffalo Springfield,1969,135,55,67,-13,4,96,172,10,3,41,blues rock
+391,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,1974,118,44,48,-15,22,76,235,0,4,68,album rock
+392,It Takes Two,Marvin Gaye,1966,151,48,52,-11,8,81,178,21,5,62,classic soul
+393,Zulu Nation Throw Down,Afrika Bambaataa,2015,108,95,85,-4,10,91,433,76,19,50,bronx hip hop
+394,Here I Go Again - 2017 Remaster,Whitesnake,1987,90,85,38,-6,9,27,276,15,4,58,album rock
+395,A Whole New World (Aladdin's Theme),Peabo Bryson,1993,108,32,52,-10,14,13,243,63,3,63,adult standards
+396,Last Friday Night (T.G.I.F.),Katy Perry,2012,126,82,65,-4,67,77,231,0,4,74,dance pop
+397,(I Just) Died In Your Arms,Cutting Crew,1986,125,73,63,-11,6,51,280,2,4,71,album rock
+398,Carolina in the Morning,Craig Douglas,2011,81,20,35,-13,9,43,213,87,3,36,brill building pop
+399,I Want To Hold Your Hand - Remastered 2015,The Beatles,2000,131,72,49,-6,31,87,146,39,5,74,british invasion
+400,Yeah! (feat. Lil Jon & Ludacris),Usher,2004,105,79,89,-5,4,58,250,2,11,79,atl hip hop
+401,More,Jimmy Young,2007,126,31,36,-11,25,29,146,77,3,34,deep adult standards
+402,I Love Rock 'N Roll,Joan Jett & The Blackhearts,1981,94,72,54,-5,66,90,175,33,4,72,glam punk
+403,I Know You Want Me (Calle Ocho),Pitbull,2009,127,74,82,-6,24,80,237,1,14,60,dance pop
+404,Put Your Head On My Shoulder,Paul Anka,2000,116,34,55,-9,10,47,155,75,3,72,adult standards
+405,Only You,Yazoo,1982,106,31,75,-17,8,85,194,33,4,65,dance rock
+406,One Tow Step (feat. Missy Elliot),Ciara,2004,113,51,94,-11,4,84,204,4,16,74,dance pop
+407,When I Look Into Your Eyes,Firehouse,2010,147,61,39,-8,16,25,240,0,3,53,album rock
+408,Easy Livin',Uriah Heep,1972,161,84,26,-7,28,46,157,0,10,56,album rock
+409,My Way,Frank Sinatra,1969,75,38,40,-7,12,23,277,70,3,72,adult standards
+410,Everybody Knows This Is Nowhere - 2009 Remaster,Neil Young,1969,158,64,52,-9,42,85,149,2,3,52,album rock
+411,Fly Me To The Moon (In Other Words),Frank Sinatra,1962,119,26,67,-14,6,37,147,45,5,76,adult standards
+412,Dynamite,Taio Cruz,2010,120,78,75,-4,4,82,203,0,9,77,dance pop
+413,I Will Always Love You - Film Version,Whitney Houston,2017,133,28,34,-10,10,12,275,61,4,57,dance pop
+414,Gold,Spandau Ballet,2000,143,74,71,-8,10,64,231,26,4,65,dance rock
+415,Narcotic - Radio Edit,Liquido,1998,102,61,62,-7,9,45,236,0,2,68,german alternative rock
+416,Papa Don't Preach,Madonna,1986,122,91,81,-9,2,97,345,31,4,63,dance pop
+417,Just Got Paid,ZZ Top,1972,100,69,57,-11,12,63,267,29,4,52,album rock
+418,Who Am I (What's My Name)?,Snoop Dogg,1993,97,83,69,-4,52,69,246,0,5,70,g funk
+419,A Milli,Lil Wayne,2008,151,70,67,-9,19,77,222,4,28,73,hip hop
+420,Jessie's Girl,Rick Springfield,1981,132,59,72,-14,10,85,194,33,5,64,album rock
+421,Do You Wanna Dance,Bobby Freeman,2013,167,50,55,-15,15,96,149,89,6,33,doo-wop
+422,Love Story,Taylor Swift,2008,119,74,62,-4,8,31,236,13,3,73,dance pop
+423,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,2006,100,42,62,-7,12,29,203,29,2,61,dance pop
+424,Another Brick In The Wall Pt. 2 - 2011 Remastered Version,Pink Floyd,1979,104,39,69,-16,25,72,239,8,4,72,album rock
+425,Hungry Eyes,Eric Carmen,1997,110,55,71,-9,12,55,251,1,3,73,adult standards
+426,Hall of Fame,The Script,2012,85,87,42,-4,12,63,203,7,6,78,celtic rock
+427,I Got 5 On It,Luniz,1995,174,71,60,-8,13,58,254,21,36,73,g funk
+428,Numb,Linkin Park,2003,110,86,50,-4,64,24,186,0,4,81,alternative metal
+429,Can't You See,The Marshall Tucker Band,1973,164,71,41,-5,11,58,365,28,3,65,album rock
+430,Gimme! Gimme! Gimme! (A Man After Midnight),ABBA,1979,120,49,75,-10,16,54,293,2,4,74,europop
+431,No Sugar Tonight / New Mother Nature,The Guess Who,2000,101,83,51,-9,31,52,294,56,4,54,album rock
+432,Lean Back,Terror Squad,2004,127,92,80,-3,7,70,247,11,47,64,bronx hip hop
+433,DÃ©senchantÃ©e - Radio Edit,Kate Ryan,2008,140,94,52,-5,23,29,221,17,7,57,belgian pop
+434,Leaving Trunk,Taj Mahal,1968,174,50,54,-11,17,95,290,20,5,55,acoustic blues
+435,Honey,Bobby Goldsboro,2008,93,35,50,-10,24,53,241,30,3,46,adult standards
+436,More And More - Single Version,Captain Hollywood Project,1993,126,85,66,-12,9,71,254,23,3,60,bubblegum dance
+437,I Knew You Were Trouble.,Taylor Swift,2012,77,47,62,-7,3,68,220,0,4,75,dance pop
+438,Blue Monday '88,New Order,1994,130,89,68,-8,6,95,245,0,4,65,alternative rock
+439,Sweet Virginia,The Rolling Stones,1972,107,74,48,-5,26,56,267,50,4,60,album rock
+440,April Love,Pat Boone,1962,91,17,39,-15,8,50,161,83,3,48,adult standards
+441,Womanizer,Britney Spears,2009,139,70,72,-5,9,24,224,7,6,74,dance pop
+442,Break My Stride,Matthew Wilder,1983,110,59,92,-11,9,83,184,20,6,81,new wave pop
+443,Romeo - 2014 Remaster,Donna Summer,1996,141,85,85,-8,11,96,199,3,4,43,dance pop
+444,I Promised Myself,Nick Kamen,1990,128,80,58,-12,3,69,241,0,3,61,
+445,Needles and Pins - Mono,The Searchers,1964,124,95,56,-7,6,89,131,5,4,56,adult standards
+446,Only Girl (In The World),Rihanna,2010,126,72,79,-4,7,61,235,13,4,72,barbadian pop
+447,Rag Doll,Frankie Valli & The Four Seasons,2003,121,53,50,-8,7,61,182,76,4,45,adult standards
+448,A World Without Love,Peter And Gordon,2017,130,66,51,-10,11,75,161,23,6,37,brill building pop
+449,But Not For Me,Ella Fitzgerald,1959,80,22,18,-17,10,16,214,92,4,45,adult standards
+450,Surf City,Jan & Dean,2010,148,81,53,-13,23,96,147,50,3,50,brill building pop
+451,Dilemma,Nelly,2002,168,55,73,-8,20,61,289,23,14,77,dance pop
+452,It's Gonna Be Me,*NSYNC,2000,165,87,64,-5,6,88,191,5,8,62,boy band
+453,In The Army Now,Status Quo,2002,105,73,68,-8,14,94,281,11,2,59,album rock
